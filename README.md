@@ -12,6 +12,9 @@ This repository contains an implementation of a Deep Convolutional Generative Ad
    - Convert images to tensors.
    - Normalize images to range `[-1, 1]`.
 
+     ![image](https://github.com/user-attachments/assets/708baaf4-c4bc-49d9-9a67-3e339b11ddba)
+
+
 ## Training the Model
 
 ### Prerequisites
@@ -48,6 +51,9 @@ This repository contains an implementation of a Deep Convolutional Generative Ad
 - The model generates 64x64 images of human faces.
 - Loss curves for generator and discriminator.
 - Comparison between real and generated images.
+
+  ![image](https://github.com/user-attachments/assets/e32c112c-66ca-4694-a775-006eeb4c3fca)
+
 
 ## Repository Structure
 
